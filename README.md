@@ -9,16 +9,16 @@
  3. Find the account you wish you dont want to subscirbe to no longer and open it in a new tab. Either with holding down the ctrl button and clicking on it or right clicking and pressing "Open link in new tab."
  4. NOTE: You want lots of ram to be able to do this with like 50 plus accounts as Chrome consumes lots of ram. 
  5. The top of your screen should look like this: 
- ![tabList] (youtubeUnSubScribe\YoutubeAutoUnsubscribe\images\tabList.png)
+ ![tabList] (YoutubeAutoUnsubscribe\images\tabList.png)
 
  ## How to use:
  1. Clone the repository or simply copy and paste the code in the unsubscribeFunc.py and the locateCoords.py to your local machine.
  2. Use the locateCoords.py code to find the "Subscribe" button on a youtube channel. 
- ![youtubeImage1] (youtubeUnSubScribe\YoutubeAutoUnsubscribe\images\youtubeIMG1.png)
+ ![youtubeImage1] (YoutubeAutoUnsubscribe\images\youtubeIMG1.png)
  3. Then use the code to find the "Unsubscribe" button once the pop up has shown
- ![youtubeImage2] (youtubeUnSubScribe\YoutubeAutoUnsubscribe\images\youtubeIMG2.png)
+ ![youtubeImage2] (YoutubeAutoUnsubscribe\images\youtubeIMG2.png)
  4. Lastly, use the code to find the "Unsubscribe" confirmation popup button
- ![youtubeImage3] (youtubeUnSubScribe\YoutubeAutoUnsubscribe\images\youtubeIMG3.png)
+ ![youtubeImage3] (YoutubeAutoUnsubscribe\images\youtubeIMG3.png)
  5. Finally, you need to get the coordinates from these three location into the unsubscribeFunc.py into the apporiate locations. 
  6. For instance, the subscribe button will be the first coordinate found in step 2 and so on.
 
